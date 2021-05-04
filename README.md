@@ -9,4 +9,4 @@ The Binary image has only two pixels 0 and 1 or one can say that a binary image 
 Then used this 2D Binary matrix as input for our program.
 
 Data collection
-The image dataset is collected from NASA's Hubble telescope site (http://hubble.nasa.gov/ ) and also from google images. 
+The image dataset is collected from NASA's Hubble telescope site (http://hubble.nasa.gov/ ).
