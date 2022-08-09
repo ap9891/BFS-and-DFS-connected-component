@@ -1,5 +1,6 @@
 # Counting the number of Galaxies and more
-project work
+Project work
+
 used openCV and dfs and bfs connected components algorithm
 
 Tech Stack: C++, Python
